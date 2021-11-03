@@ -1,4 +1,4 @@
-# SushiSwap Icons
+# Vonder Leverage Icons
 
 # Adding a token
 
